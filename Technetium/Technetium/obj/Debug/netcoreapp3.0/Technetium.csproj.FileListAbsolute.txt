@@ -1,0 +1,11 @@
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.exe
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.deps.json
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.runtimeconfig.json
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.runtimeconfig.dev.json
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.dll
+C:\Users\plradmso\source\repos\Technetium\Technetium\bin\Debug\netcoreapp3.0\Technetium.pdb
+C:\Users\plradmso\source\repos\Technetium\Technetium\obj\Debug\netcoreapp3.0\Technetium.csprojAssemblyReference.cache
+C:\Users\plradmso\source\repos\Technetium\Technetium\obj\Debug\netcoreapp3.0\Technetium.AssemblyInfoInputs.cache
+C:\Users\plradmso\source\repos\Technetium\Technetium\obj\Debug\netcoreapp3.0\Technetium.AssemblyInfo.cs
+C:\Users\plradmso\source\repos\Technetium\Technetium\obj\Debug\netcoreapp3.0\Technetium.dll
+C:\Users\plradmso\source\repos\Technetium\Technetium\obj\Debug\netcoreapp3.0\Technetium.pdb

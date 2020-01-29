@@ -1,0 +1,11 @@
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.exe
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.deps.json
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.runtimeconfig.json
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.runtimeconfig.dev.json
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.dll
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\bin\Debug\netcoreapp3.0\Zirconium.pdb
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\obj\Debug\netcoreapp3.0\Zirconium.csprojAssemblyReference.cache
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\obj\Debug\netcoreapp3.0\Zirconium.AssemblyInfoInputs.cache
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\obj\Debug\netcoreapp3.0\Zirconium.AssemblyInfo.cs
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\obj\Debug\netcoreapp3.0\Zirconium.dll
+C:\Users\plradmso\source\repos\Zirconium\Zirconium\obj\Debug\netcoreapp3.0\Zirconium.pdb

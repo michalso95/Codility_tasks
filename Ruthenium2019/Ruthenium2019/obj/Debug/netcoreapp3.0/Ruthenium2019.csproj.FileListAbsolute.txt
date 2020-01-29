@@ -1,0 +1,11 @@
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.exe
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.deps.json
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.runtimeconfig.json
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.runtimeconfig.dev.json
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.dll
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\bin\Debug\netcoreapp3.0\Ruthenium2019.pdb
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\obj\Debug\netcoreapp3.0\Ruthenium2019.csprojAssemblyReference.cache
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\obj\Debug\netcoreapp3.0\Ruthenium2019.AssemblyInfoInputs.cache
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\obj\Debug\netcoreapp3.0\Ruthenium2019.AssemblyInfo.cs
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\obj\Debug\netcoreapp3.0\Ruthenium2019.dll
+C:\Users\plradmso\source\repos\Ruthenium2019\Ruthenium2019\obj\Debug\netcoreapp3.0\Ruthenium2019.pdb

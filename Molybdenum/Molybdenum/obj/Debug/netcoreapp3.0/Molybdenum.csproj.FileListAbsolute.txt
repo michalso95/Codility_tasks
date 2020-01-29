@@ -1,0 +1,11 @@
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.exe
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.deps.json
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.runtimeconfig.json
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.runtimeconfig.dev.json
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.dll
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\bin\Debug\netcoreapp3.0\Molybdenum.pdb
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\obj\Debug\netcoreapp3.0\Molybdenum.csprojAssemblyReference.cache
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\obj\Debug\netcoreapp3.0\Molybdenum.AssemblyInfoInputs.cache
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\obj\Debug\netcoreapp3.0\Molybdenum.AssemblyInfo.cs
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\obj\Debug\netcoreapp3.0\Molybdenum.dll
+C:\Users\plradmso\source\repos\Molybdenum\Molybdenum\obj\Debug\netcoreapp3.0\Molybdenum.pdb
